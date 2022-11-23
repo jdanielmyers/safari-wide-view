@@ -11,6 +11,5 @@ function addStyle(styleString) {
 addStyle(`
   body {
     min-width: 1024px;
-    zoom: 50%;
   }
 `);
