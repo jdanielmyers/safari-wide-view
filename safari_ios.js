@@ -9,7 +9,7 @@ function addStyle(styleString) {
 }
 
 addStyle(`
-  html, body {
+  body {
     min-width: 1024px;
     zoom: 50%;
   }
